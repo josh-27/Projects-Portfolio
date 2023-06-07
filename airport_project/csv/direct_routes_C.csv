@@ -1,0 +1,458 @@
+Name,Carrier,Route,Departure,Arrival,Code
+Copa Airlines,CM,ADZ-PTY,ADZ,PTY,
+United Airlines,UA,ADZ-PTY,ADZ,PTY,C
+Air France,AF,AMS-PTY,AMS,PTY,C
+Copa Airlines,CM,AMS-PTY,AMS,PTY,C
+KLM,KL,AMS-PTY,AMS,PTY,
+Copa Airlines,CM,ASU-PTY,ASU,PTY,
+Turkish Airlines,TK,ASU-PTY,ASU,PTY,C
+United Airlines,UA,ASU-PTY,ASU,PTY,C
+Air France,AF,ATL-PTY,ATL,PTY,C
+Copa Airlines,CM,ATL-PTY,ATL,PTY,
+Delta,DL,ATL-PTY,ATL,PTY,
+Korean Air,KE,ATL-PTY,ATL,PTY,C
+KLM,KL,ATL-PTY,ATL,PTY,C
+Copa Airlines,CM,AUA-PTY,AUA,PTY,
+Copa Airlines,CM,AUS-PTY,AUS,PTY,
+Copa Airlines,CM,AXM-PTY,AXM,PTY,
+Copa Airlines,CM,BAQ-PTY,BAQ,PTY,
+KLM,KL,BAQ-PTY,BAQ,PTY,C
+United Airlines,UA,BAQ-PTY,BAQ,PTY,C
+Copa Airlines,CM,BGA-PTY,BGA,PTY,
+KLM,KL,BGA-PTY,BGA,PTY,C
+United Airlines,UA,BGA-PTY,BGA,PTY,C
+Copa Airlines,CM,BGI-PTY,BGI,PTY,
+Copa Airlines,CM,BLA-PTY,BLA,PTY,
+Avianca,AV,BOG-PTY,BOG,PTY,
+Avianca,AV,BOG-PTY,BOG,PTY,W
+Copa Airlines,CM,BOG-PTY,BOG,PTY,
+Copa Airlines,CM,BOG-PTY,BOG,PTY,C
+Wingo,P5,BOG-PTY,BOG,PTY,W
+Turkish Airlines,TK,BOG-PTY,BOG,PTY,
+Turkish Airlines,TK,BOG-PTY,BOG,PTY,C
+Copa Airlines,CM,BOS-PTY,BOS,PTY,
+United Airlines,UA,BOS-PTY,BOS,PTY,C
+Venezolana,WW,BRM-PTY,BRM,PTY,
+Azul,AD,BSB-PTY,BSB,PTY,C
+Copa Airlines,CM,BSB-PTY,BSB,PTY,
+GOL Linhas Aéreas,G3,BSB-PTY,BSB,PTY,C
+Copa Airlines,CM,BWI-PTY,BWI,PTY,
+United Airlines,UA,BWI-PTY,BWI,PTY,C
+Copa Airlines,CM,BZE-PTY,BZE,PTY,
+Copa Airlines,CM,CCS-PTY,CCS,PTY,
+Estelar Latinoamerica,ES,CCS-PTY,CCS,PTY,
+LASER Airlines,QL,CCS-PTY,CCS,PTY,
+Venezolana,WW,CCS-PTY,CCS,PTY,
+Air France,AF,CDG-PTY,CDG,PTY,
+KLM,KL,CDG-PTY,CDG,PTY,C
+Copa Airlines,CM,CIX-PTY,CIX,PTY,
+United Airlines,UA,CIX-PTY,CIX,PTY,C
+Copa Airlines,CM,CLO-PTY,CLO,PTY,
+KLM,KL,CLO-PTY,CLO,PTY,C
+United Airlines,UA,CLO-PTY,CLO,PTY,C
+Azul,AD,CNF-PTY,CNF,PTY,C
+Copa Airlines,CM,CNF-PTY,CNF,PTY,
+GOL Linhas Aéreas,G3,CNF-PTY,CNF,PTY,C
+Copa Airlines,CM,COR-PTY,COR,PTY,
+Copa Airlines,CM,CTG-PTY,CTG,PTY,
+KLM,KL,CTG-PTY,CTG,PTY,C
+Turkish Airlines,TK,CTG-PTY,CTG,PTY,C
+United Airlines,UA,CTG-PTY,CTG,PTY,C
+Copa Airlines,CM,CUC-PTY,CUC,PTY,
+Copa Airlines,CM,CUN-PTY,CUN,PTY,
+Copa Airlines,CM,CUR-PTY,CUR,PTY,
+United Airlines,UA,CUR-PTY,CUR,PTY,C
+Copa Airlines,CM,DAV-PTY,DAV,PTY,
+United Airlines,UA,DAV-PTY,DAV,PTY,C
+Copa Airlines,CM,DEN-PTY,DEN,PTY,
+United Airlines,UA,DEN-PTY,DEN,PTY,C
+Copa Airlines,CM,EWR-PTY,EWR,PTY,C
+United Airlines,UA,EWR-PTY,EWR,PTY,
+Copa Airlines,CM,EZE-PTY,EZE,PTY,
+Turkish Airlines,TK,EZE-PTY,EZE,PTY,C
+Copa Airlines,CM,FLL-PTY,FLL,PTY,
+United Airlines,UA,FLL-PTY,FLL,PTY,C
+Cayman Airways,KX,GCM-PTY,GCM,PTY,
+Copa Airlines,CM,GDL-PTY,GDL,PTY,
+Air France,AF,GEO-PTY,GEO,PTY,C
+Copa Airlines,CM,GEO-PTY,GEO,PTY,
+KLM,KL,GEO-PTY,GEO,PTY,C
+United Airlines,UA,GEO-PTY,GEO,PTY,C
+Azul,AD,GIG-PTY,GIG,PTY,C
+Copa Airlines,CM,GIG-PTY,GIG,PTY,
+Emirates,EK,GIG-PTY,GIG,PTY,C
+GOL Linhas Aéreas,G3,GIG-PTY,GIG,PTY,C
+Azul,AD,GRU-PTY,GRU,PTY,C
+Copa Airlines,CM,GRU-PTY,GRU,PTY,
+Emirates,EK,GRU-PTY,GRU,PTY,C
+GOL Linhas Aéreas,G3,GRU-PTY,GRU,PTY,C
+Turkish Airlines,TK,GRU-PTY,GRU,PTY,C
+Air France,AF,GUA-PTY,GUA,PTY,C
+Copa Airlines,CM,GUA-PTY,GUA,PTY,
+Iberia,IB,GUA-PTY,GUA,PTY,C
+KLM,KL,GUA-PTY,GUA,PTY,C
+Turkish Airlines,TK,GUA-PTY,GUA,PTY,C
+Air Europa,UX,GUA-PTY,GUA,PTY,C
+Air France,AF,GYE-PTY,GYE,PTY,C
+Copa Airlines,CM,GYE-PTY,GYE,PTY,
+KLM,KL,GYE-PTY,GYE,PTY,C
+Turkish Airlines,TK,GYE-PTY,GYE,PTY,C
+United Airlines,UA,GYE-PTY,GYE,PTY,C
+Copa Airlines,CM,HAV-PTY,HAV,PTY,
+Copa Airlines,CM,IAD-PTY,IAD,PTY,
+United Airlines,UA,IAD-PTY,IAD,PTY,C
+Copa Airlines,CM,IAH-PTY,IAH,PTY,C
+United Airlines,UA,IAH-PTY,IAH,PTY,
+Copa Airlines,CM,IST-PTY,IST,PTY,C
+Turkish Airlines,TK,IST-PTY,IST,PTY,
+EVA Air,BR,JFK-PTY,JFK,PTY,C
+Copa Airlines,CM,JFK-PTY,JFK,PTY,
+Asiana Airlines,OZ,JFK-PTY,JFK,PTY,C
+United Airlines,UA,JFK-PTY,JFK,PTY,C
+Copa Airlines,CM,KIN-PTY,KIN,PTY,
+KLM,KL,KIN-PTY,KIN,PTY,C
+United Airlines,UA,KIN-PTY,KIN,PTY,C
+Copa Airlines,CM,LAS-PTY,LAS,PTY,
+United Airlines,UA,LAS-PTY,LAS,PTY,C
+EVA Air,BR,LAX-PTY,LAX,PTY,C
+Copa Airlines,CM,LAX-PTY,LAX,PTY,
+Asiana Airlines,OZ,LAX-PTY,LAX,PTY,C
+United Airlines,UA,LAX-PTY,LAX,PTY,C
+Air France,AF,LIM-PTY,LIM,PTY,C
+Copa Airlines,CM,LIM-PTY,LIM,PTY,
+KLM,KL,LIM-PTY,LIM,PTY,C
+Turkish Airlines,TK,LIM-PTY,LIM,PTY,C
+British Airways,BA,MAD-PTY,MAD,PTY,C
+Copa Airlines,CM,MAD-PTY,MAD,PTY,C
+Iberia,IB,MAD-PTY,MAD,PTY,
+EL AL,LY,MAD-PTY,MAD,PTY,C
+Qatar Airways,QR,MAD-PTY,MAD,PTY,C
+Air Europa,UX,MAD-PTY,MAD,PTY,
+Azul,AD,MAO-PTY,MAO,PTY,C
+Copa Airlines,CM,MAO-PTY,MAO,PTY,
+GOL Linhas Aéreas,G3,MAO-PTY,MAO,PTY,C
+United Airlines,UA,MAO-PTY,MAO,PTY,C
+Copa Airlines,CM,MAR-PTY,MAR,PTY,
+Venezolana,WW,MAR-PTY,MAR,PTY,
+Copa Airlines,CM,MBJ-PTY,MBJ,PTY,
+KLM,KL,MBJ-PTY,MBJ,PTY,C
+Copa Airlines,CM,MCO-PTY,MCO,PTY,
+United Airlines,UA,MCO-PTY,MCO,PTY,C
+Copa Airlines,CM,MDE-PTY,MDE,PTY,
+KLM,KL,MDE-PTY,MDE,PTY,C
+Wingo,P5,MDE-PTY,MDE,PTY,W
+United Airlines,UA,MDE-PTY,MDE,PTY,C
+Copa Airlines,CM,MDZ-PTY,MDZ,PTY,
+Copa Airlines,CM,MEC-PTY,MEC,PTY,
+Copa Airlines,CM,MEX-PTY,MEX,PTY,
+Emirates,EK,MEX-PTY,MEX,PTY,C
+Air France,AF,MGA-PTY,MGA,PTY,C
+Copa Airlines,CM,MGA-PTY,MGA,PTY,
+Iberia,IB,MGA-PTY,MGA,PTY,C
+KLM,KL,MGA-PTY,MGA,PTY,C
+Turkish Airlines,TK,MGA-PTY,MGA,PTY,C
+Air Europa,UX,MGA-PTY,MGA,PTY,C
+American Airlines,AA,MIA-PTY,MIA,PTY,
+Copa Airlines,CM,MIA-PTY,MIA,PTY,
+Iberia,IB,MIA-PTY,MIA,PTY,C
+United Airlines,UA,MIA-PTY,MIA,PTY,C
+Copa Airlines,CM,MTY-PTY,MTY,PTY,
+Copa Airlines,CM,MVD-PTY,MVD,PTY,
+Turkish Airlines,TK,MVD-PTY,MVD,PTY,C
+United Airlines,UA,MVD-PTY,MVD,PTY,C
+Copa Airlines,CM,NAS-PTY,NAS,PTY,
+Copa Airlines,CM,NLU-PTY,NLU,PTY,
+EVA Air,BR,ORD-PTY,ORD,PTY,C
+Copa Airlines,CM,ORD-PTY,ORD,PTY,
+United Airlines,UA,ORD-PTY,ORD,PTY,C
+Sunrise Airways,S6,PAP-PTY,PAP,PTY,
+Copa Airlines,CM,PBM-PTY,PBM,PTY,
+Copa Airlines,CM,PEI-PTY,PEI,PTY,
+KLM,KL,PEI-PTY,PEI,PTY,C
+United Airlines,UA,PEI-PTY,PEI,PTY,C
+Azul,AD,POA-PTY,POA,PTY,C
+Copa Airlines,CM,POA-PTY,POA,PTY,
+GOL Linhas Aéreas,G3,POA-PTY,POA,PTY,C
+Air France,AF,POS-PTY,POS,PTY,C
+Avianca,AV,POS-PTY,POS,PTY,C
+Copa Airlines,CM,POS-PTY,POS,PTY,
+KLM,KL,POS-PTY,POS,PTY,C
+Copa Airlines,CM,PTY-ADZ,PTY,ADZ,
+United Airlines,UA,PTY-ADZ,PTY,ADZ,C
+Air France,AF,PTY-AMS,PTY,AMS,C
+Copa Airlines,CM,PTY-AMS,PTY,AMS,C
+KLM,KL,PTY-AMS,PTY,AMS,
+Copa Airlines,CM,PTY-ASU,PTY,ASU,
+Turkish Airlines,TK,PTY-ASU,PTY,ASU,C
+United Airlines,UA,PTY-ASU,PTY,ASU,C
+Air France,AF,PTY-ATL,PTY,ATL,C
+Copa Airlines,CM,PTY-ATL,PTY,ATL,
+Delta,DL,PTY-ATL,PTY,ATL,
+Korean Air,KE,PTY-ATL,PTY,ATL,C
+KLM,KL,PTY-ATL,PTY,ATL,C
+United Airlines,UA,PTY-ATL,PTY,ATL,C
+Copa Airlines,CM,PTY-AUA,PTY,AUA,
+Copa Airlines,CM,PTY-AUS,PTY,AUS,
+Copa Airlines,CM,PTY-AXM,PTY,AXM,
+Copa Airlines,CM,PTY-BAQ,PTY,BAQ,
+KLM,KL,PTY-BAQ,PTY,BAQ,C
+United Airlines,UA,PTY-BAQ,PTY,BAQ,C
+Copa Airlines,CM,PTY-BGA,PTY,BGA,
+KLM,KL,PTY-BGA,PTY,BGA,C
+United Airlines,UA,PTY-BGA,PTY,BGA,C
+Copa Airlines,CM,PTY-BGI,PTY,BGI,
+Copa Airlines,CM,PTY-BLA,PTY,BLA,
+Avianca,AV,PTY-BOG,PTY,BOG,
+Avianca,AV,PTY-BOG,PTY,BOG,W
+Copa Airlines,CM,PTY-BOG,PTY,BOG,
+Wingo,P5,PTY-BOG,PTY,BOG,W
+Turkish Airlines,TK,PTY-BOG,PTY,BOG,C
+Copa Airlines,CM,PTY-BOS,PTY,BOS,
+United Airlines,UA,PTY-BOS,PTY,BOS,C
+Venezolana,WW,PTY-BRM,PTY,BRM,
+Azul,AD,PTY-BSB,PTY,BSB,C
+Copa Airlines,CM,PTY-BSB,PTY,BSB,
+GOL Linhas Aéreas,G3,PTY-BSB,PTY,BSB,C
+Copa Airlines,CM,PTY-BWI,PTY,BWI,
+United Airlines,UA,PTY-BWI,PTY,BWI,C
+Copa Airlines,CM,PTY-BZE,PTY,BZE,
+Copa Airlines,CM,PTY-CCS,PTY,CCS,
+Estelar Latinoamerica,ES,PTY-CCS,PTY,CCS,
+LASER Airlines,QL,PTY-CCS,PTY,CCS,
+Venezolana,WW,PTY-CCS,PTY,CCS,
+Air France,AF,PTY-CDG,PTY,CDG,
+KLM,KL,PTY-CDG,PTY,CDG,C
+Copa Airlines,CM,PTY-CIX,PTY,CIX,
+United Airlines,UA,PTY-CIX,PTY,CIX,C
+Copa Airlines,CM,PTY-CLO,PTY,CLO,
+KLM,KL,PTY-CLO,PTY,CLO,C
+United Airlines,UA,PTY-CLO,PTY,CLO,C
+Azul,AD,PTY-CNF,PTY,CNF,C
+Copa Airlines,CM,PTY-CNF,PTY,CNF,
+GOL Linhas Aéreas,G3,PTY-CNF,PTY,CNF,C
+Copa Airlines,CM,PTY-COR,PTY,COR,
+Copa Airlines,CM,PTY-CTG,PTY,CTG,
+KLM,KL,PTY-CTG,PTY,CTG,C
+Turkish Airlines,TK,PTY-CTG,PTY,CTG,C
+United Airlines,UA,PTY-CTG,PTY,CTG,C
+Copa Airlines,CM,PTY-CUC,PTY,CUC,
+Copa Airlines,CM,PTY-CUN,PTY,CUN,
+Copa Airlines,CM,PTY-CUR,PTY,CUR,
+United Airlines,UA,PTY-CUR,PTY,CUR,C
+Copa Airlines,CM,PTY-DAV,PTY,DAV,
+Turkish Airlines,TK,PTY-DAV,PTY,DAV,C
+United Airlines,UA,PTY-DAV,PTY,DAV,C
+Copa Airlines,CM,PTY-DEN,PTY,DEN,
+United Airlines,UA,PTY-DEN,PTY,DEN,C
+Copa Airlines,CM,PTY-EWR,PTY,EWR,C
+United Airlines,UA,PTY-EWR,PTY,EWR,
+Copa Airlines,CM,PTY-EZE,PTY,EZE,
+Turkish Airlines,TK,PTY-EZE,PTY,EZE,C
+Copa Airlines,CM,PTY-FLL,PTY,FLL,
+United Airlines,UA,PTY-FLL,PTY,FLL,C
+Cayman Airways,KX,PTY-GCM,PTY,GCM,
+Copa Airlines,CM,PTY-GDL,PTY,GDL,
+Air France,AF,PTY-GEO,PTY,GEO,C
+Copa Airlines,CM,PTY-GEO,PTY,GEO,
+KLM,KL,PTY-GEO,PTY,GEO,C
+Turkish Airlines,TK,PTY-GEO,PTY,GEO,C
+United Airlines,UA,PTY-GEO,PTY,GEO,C
+Azul,AD,PTY-GIG,PTY,GIG,C
+Copa Airlines,CM,PTY-GIG,PTY,GIG,
+Emirates,EK,PTY-GIG,PTY,GIG,C
+GOL Linhas Aéreas,G3,PTY-GIG,PTY,GIG,C
+Azul,AD,PTY-GRU,PTY,GRU,C
+Copa Airlines,CM,PTY-GRU,PTY,GRU,
+Emirates,EK,PTY-GRU,PTY,GRU,C
+GOL Linhas Aéreas,G3,PTY-GRU,PTY,GRU,C
+Turkish Airlines,TK,PTY-GRU,PTY,GRU,C
+Air France,AF,PTY-GUA,PTY,GUA,C
+Copa Airlines,CM,PTY-GUA,PTY,GUA,
+Iberia,IB,PTY-GUA,PTY,GUA,C
+KLM,KL,PTY-GUA,PTY,GUA,C
+Turkish Airlines,TK,PTY-GUA,PTY,GUA,C
+Air Europa,UX,PTY-GUA,PTY,GUA,C
+Air France,AF,PTY-GYE,PTY,GYE,C
+Copa Airlines,CM,PTY-GYE,PTY,GYE,
+KLM,KL,PTY-GYE,PTY,GYE,C
+Turkish Airlines,TK,PTY-GYE,PTY,GYE,C
+United Airlines,UA,PTY-GYE,PTY,GYE,C
+Copa Airlines,CM,PTY-HAV,PTY,HAV,
+Copa Airlines,CM,PTY-IAD,PTY,IAD,
+United Airlines,UA,PTY-IAD,PTY,IAD,C
+Copa Airlines,CM,PTY-IAH,PTY,IAH,C
+United Airlines,UA,PTY-IAH,PTY,IAH,
+Copa Airlines,CM,PTY-IST,PTY,IST,C
+Turkish Airlines,TK,PTY-IST,PTY,IST,
+Copa Airlines,CM,PTY-JFK,PTY,JFK,
+Asiana Airlines,OZ,PTY-JFK,PTY,JFK,C
+United Airlines,UA,PTY-JFK,PTY,JFK,C
+Copa Airlines,CM,PTY-KIN,PTY,KIN,
+KLM,KL,PTY-KIN,PTY,KIN,C
+United Airlines,UA,PTY-KIN,PTY,KIN,C
+Copa Airlines,CM,PTY-LAS,PTY,LAS,
+United Airlines,UA,PTY-LAS,PTY,LAS,C
+EVA Air,BR,PTY-LAX,PTY,LAX,C
+Copa Airlines,CM,PTY-LAX,PTY,LAX,
+Asiana Airlines,OZ,PTY-LAX,PTY,LAX,C
+United Airlines,UA,PTY-LAX,PTY,LAX,C
+Air France,AF,PTY-LIM,PTY,LIM,C
+Copa Airlines,CM,PTY-LIM,PTY,LIM,
+KLM,KL,PTY-LIM,PTY,LIM,C
+Turkish Airlines,TK,PTY-LIM,PTY,LIM,C
+British Airways,BA,PTY-MAD,PTY,MAD,C
+Copa Airlines,CM,PTY-MAD,PTY,MAD,C
+Iberia,IB,PTY-MAD,PTY,MAD,
+EL AL,LY,PTY-MAD,PTY,MAD,C
+Qatar Airways,QR,PTY-MAD,PTY,MAD,C
+Air Europa,UX,PTY-MAD,PTY,MAD,
+Azul,AD,PTY-MAO,PTY,MAO,C
+Copa Airlines,CM,PTY-MAO,PTY,MAO,
+GOL Linhas Aéreas,G3,PTY-MAO,PTY,MAO,C
+United Airlines,UA,PTY-MAO,PTY,MAO,C
+Copa Airlines,CM,PTY-MAR,PTY,MAR,
+Venezolana,WW,PTY-MAR,PTY,MAR,
+Copa Airlines,CM,PTY-MBJ,PTY,MBJ,
+KLM,KL,PTY-MBJ,PTY,MBJ,C
+Copa Airlines,CM,PTY-MCO,PTY,MCO,
+United Airlines,UA,PTY-MCO,PTY,MCO,C
+Copa Airlines,CM,PTY-MDE,PTY,MDE,
+KLM,KL,PTY-MDE,PTY,MDE,C
+Wingo,P5,PTY-MDE,PTY,MDE,W
+United Airlines,UA,PTY-MDE,PTY,MDE,C
+Copa Airlines,CM,PTY-MDZ,PTY,MDZ,
+Copa Airlines,CM,PTY-MEC,PTY,MEC,
+Copa Airlines,CM,PTY-MEX,PTY,MEX,
+Emirates,EK,PTY-MEX,PTY,MEX,C
+Air France,AF,PTY-MGA,PTY,MGA,C
+Copa Airlines,CM,PTY-MGA,PTY,MGA,
+Iberia,IB,PTY-MGA,PTY,MGA,C
+KLM,KL,PTY-MGA,PTY,MGA,C
+Turkish Airlines,TK,PTY-MGA,PTY,MGA,C
+Air Europa,UX,PTY-MGA,PTY,MGA,C
+American Airlines,AA,PTY-MIA,PTY,MIA,
+British Airways,BA,PTY-MIA,PTY,MIA,C
+Copa Airlines,CM,PTY-MIA,PTY,MIA,
+Iberia,IB,PTY-MIA,PTY,MIA,C
+Qatar Airways,QR,PTY-MIA,PTY,MIA,C
+United Airlines,UA,PTY-MIA,PTY,MIA,C
+Copa Airlines,CM,PTY-MTY,PTY,MTY,
+Copa Airlines,CM,PTY-MVD,PTY,MVD,
+Turkish Airlines,TK,PTY-MVD,PTY,MVD,C
+United Airlines,UA,PTY-MVD,PTY,MVD,C
+Copa Airlines,CM,PTY-NAS,PTY,NAS,
+Copa Airlines,CM,PTY-NLU,PTY,NLU,
+EVA Air,BR,PTY-ORD,PTY,ORD,C
+Copa Airlines,CM,PTY-ORD,PTY,ORD,
+United Airlines,UA,PTY-ORD,PTY,ORD,C
+Sunrise Airways,S6,PTY-PAP,PTY,PAP,
+Copa Airlines,CM,PTY-PBM,PTY,PBM,
+Copa Airlines,CM,PTY-PEI,PTY,PEI,
+KLM,KL,PTY-PEI,PTY,PEI,C
+United Airlines,UA,PTY-PEI,PTY,PEI,C
+Azul,AD,PTY-POA,PTY,POA,C
+Copa Airlines,CM,PTY-POA,PTY,POA,
+GOL Linhas Aéreas,G3,PTY-POA,PTY,POA,C
+Air France,AF,PTY-POS,PTY,POS,C
+Avianca,AV,PTY-POS,PTY,POS,C
+Copa Airlines,CM,PTY-POS,PTY,POS,
+KLM,KL,PTY-POS,PTY,POS,C
+Turkish Airlines,TK,PTY-POS,PTY,POS,C
+Copa Airlines,CM,PTY-PUJ,PTY,PUJ,
+Copa Airlines,CM,PTY-ROS,PTY,ROS,
+Air France,AF,PTY-SAL,PTY,SAL,C
+Avianca,AV,PTY-SAL,PTY,SAL,C
+Copa Airlines,CM,PTY-SAL,PTY,SAL,
+Iberia,IB,PTY-SAL,PTY,SAL,C
+KLM,KL,PTY-SAL,PTY,SAL,C
+Turkish Airlines,TK,PTY-SAL,PTY,SAL,C
+Air Europa,UX,PTY-SAL,PTY,SAL,C
+Copa Airlines,CM,PTY-SAP,PTY,SAP,
+KLM,KL,PTY-SAP,PTY,SAP,C
+Copa Airlines,CM,PTY-SCL,PTY,SCL,
+KLM,KL,PTY-SCL,PTY,SCL,C
+Turkish Airlines,TK,PTY-SCL,PTY,SCL,C
+Copa Airlines,CM,PTY-SDQ,PTY,SDQ,
+Turkish Airlines,TK,PTY-SDQ,PTY,SDQ,C
+Copa Airlines,CM,PTY-SFO,PTY,SFO,
+United Airlines,UA,PTY-SFO,PTY,SFO,C
+Air France,AF,PTY-SJO,PTY,SJO,C
+Avianca,AV,PTY-SJO,PTY,SJO,C
+Copa Airlines,CM,PTY-SJO,PTY,SJO,
+Iberia,IB,PTY-SJO,PTY,SJO,C
+KLM,KL,PTY-SJO,PTY,SJO,C
+Turkish Airlines,TK,PTY-SJO,PTY,SJO,C
+Air Europa,UX,PTY-SJO,PTY,SJO,C
+Copa Airlines,CM,PTY-SJU,PTY,SJU,
+KLM,KL,PTY-SJU,PTY,SJU,C
+Copa Airlines,CM,PTY-SMR,PTY,SMR,
+Copa Airlines,CM,PTY-SNU,PTY,SNU,
+Copa Airlines,CM,PTY-SXM,PTY,SXM,
+Copa Airlines,CM,PTY-TPA,PTY,TPA,
+United Airlines,UA,PTY-TPA,PTY,TPA,C
+Air France,AF,PTY-UIO,PTY,UIO,C
+Copa Airlines,CM,PTY-UIO,PTY,UIO,
+KLM,KL,PTY-UIO,PTY,UIO,C
+Turkish Airlines,TK,PTY-UIO,PTY,UIO,C
+Copa Airlines,CM,PTY-VLN,PTY,VLN,
+Turpial Airlines,T9,PTY-VLN,PTY,VLN,
+Copa Airlines,CM,PTY-VVI,PTY,VVI,
+United Airlines,UA,PTY-VVI,PTY,VVI,C
+Air France,AF,PTY-XPL,PTY,XPL,C
+Copa Airlines,CM,PTY-XPL,PTY,XPL,
+Iberia,IB,PTY-XPL,PTY,XPL,C
+KLM,KL,PTY-XPL,PTY,XPL,C
+Copa Airlines,CM,PTY-YUL,PTY,YUL,
+Air Canada,AC,PTY-YYZ,PTY,YYZ,
+Copa Airlines,CM,PTY-YYZ,PTY,YYZ,
+Copa Airlines,CM,PUJ-PTY,PUJ,PTY,
+Turkish Airlines,TK,PUJ-PTY,PUJ,PTY,C
+Copa Airlines,CM,ROS-PTY,ROS,PTY,
+Air France,AF,SAL-PTY,SAL,PTY,C
+Avianca,AV,SAL-PTY,SAL,PTY,C
+Copa Airlines,CM,SAL-PTY,SAL,PTY,
+Iberia,IB,SAL-PTY,SAL,PTY,C
+KLM,KL,SAL-PTY,SAL,PTY,C
+Turkish Airlines,TK,SAL-PTY,SAL,PTY,C
+Air Europa,UX,SAL-PTY,SAL,PTY,C
+Copa Airlines,CM,SAP-PTY,SAP,PTY,
+KLM,KL,SAP-PTY,SAP,PTY,C
+Turkish Airlines,TK,SAP-PTY,SAP,PTY,C
+Copa Airlines,CM,SCL-PTY,SCL,PTY,
+KLM,KL,SCL-PTY,SCL,PTY,C
+Turkish Airlines,TK,SCL-PTY,SCL,PTY,C
+Copa Airlines,CM,SDQ-PTY,SDQ,PTY,
+Turkish Airlines,TK,SDQ-PTY,SDQ,PTY,C
+EVA Air,BR,SFO-PTY,SFO,PTY,C
+Copa Airlines,CM,SFO-PTY,SFO,PTY,
+United Airlines,UA,SFO-PTY,SFO,PTY,C
+Air France,AF,SJO-PTY,SJO,PTY,C
+Avianca,AV,SJO-PTY,SJO,PTY,C
+Copa Airlines,CM,SJO-PTY,SJO,PTY,
+Iberia,IB,SJO-PTY,SJO,PTY,C
+KLM,KL,SJO-PTY,SJO,PTY,C
+Turkish Airlines,TK,SJO-PTY,SJO,PTY,C
+Air Europa,UX,SJO-PTY,SJO,PTY,C
+Copa Airlines,CM,SJU-PTY,SJU,PTY,
+KLM,KL,SJU-PTY,SJU,PTY,C
+Copa Airlines,CM,SMR-PTY,SMR,PTY,
+Copa Airlines,CM,SNU-PTY,SNU,PTY,
+Copa Airlines,CM,SXM-PTY,SXM,PTY,
+Iberia,IB,TGU-PTY,TGU,PTY,C
+Copa Airlines,CM,TPA-PTY,TPA,PTY,
+United Airlines,UA,TPA-PTY,TPA,PTY,C
+Air France,AF,UIO-PTY,UIO,PTY,C
+Copa Airlines,CM,UIO-PTY,UIO,PTY,
+KLM,KL,UIO-PTY,UIO,PTY,C
+Turkish Airlines,TK,UIO-PTY,UIO,PTY,C
+Copa Airlines,CM,VLN-PTY,VLN,PTY,
+Turpial Airlines,T9,VLN-PTY,VLN,PTY,
+Copa Airlines,CM,VVI-PTY,VVI,PTY,
+United Airlines,UA,VVI-PTY,VVI,PTY,C
+Air France,AF,XPL-PTY,XPL,PTY,C
+Copa Airlines,CM,XPL-PTY,XPL,PTY,
+Iberia,IB,XPL-PTY,XPL,PTY,C
+KLM,KL,XPL-PTY,XPL,PTY,C
+Copa Airlines,CM,YUL-PTY,YUL,PTY,
+Air Canada,AC,YYZ-PTY,YYZ,PTY,
+Copa Airlines,CM,YYZ-PTY,YYZ,PTY,

@@ -1,0 +1,13 @@
+Name,Carrier,Route,Departure,Arrival
+Copa Airlines,CM,GUA-SJO-PTY,GUA,PTY
+Iberia,IB,GUA-SJO-PTY,GUA,PTY
+Copa Airlines,CM,IST-BOG-PTY,IST,PTY
+Copa Airlines,CM,MGA-GUA-PTY,MGA,PTY
+Copa Airlines,CM,MGA-GUA-PTY,MGA,PTY
+Copa Airlines,CM,MGA-SJO-PTY,MGA,PTY
+Avianca,AV,PTY-BOG-GYE,PTY,GYE
+Copa Airlines,CM,PTY-GUA-MGA,PTY,MGA
+Copa Airlines,CM,PTY-GUA-MGA,PTY,MGA
+Copa Airlines,CM,PTY-SJO-MGA,PTY,MGA
+Copa Airlines,CM,PTY-SJO-GUA,PTY,GUA
+KLM,KL,PTY-SJO-GUA,PTY,GUA

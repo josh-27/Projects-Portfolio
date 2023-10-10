@@ -1,0 +1,23 @@
+Project info
+This project is about bike buyer info, the spreadsheet has multiple 
+information regarding the buyer, the information include from the region 
+to his professional ocupation, gender, commute distane and even country.
+
+For this project I did the following actions:
+
+First eliminate the duplciates using the excel. 
+
+To elimiate duplicates, first you hace to select al the spreedshet and 
+
+then you would have to go to the data label.
+
+Then i created a pivor table. 
+
+I used pivot tables to create the visualitaions and then the dynamic filter 
+
+on the app.
+
+Insert a graph using the pick table as reference
+
+The reason I created a dynamic table is becasue if changes are made in the
+in the table it extend to the graph. 

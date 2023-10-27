@@ -1,4 +1,4 @@
-This is an exploratory analysis made from a video of lore, so what.
+This is an exploratory analysis made from a video of lore, so what. The idea is to extend beyond the video and make an interactive dashboard using python with this data.
 
 It's an exploratory analysis using SQLite on data about the App Store. The idea is to make an analysis for a stakeholder interested in making an app for this platform.
 

@@ -1,0 +1,10 @@
+Insight from the analysis
+
+Paid apps have better ratings than the free ones, and on average, the price is $1.72.
+An app with a good rating seems to support at least 30 languages; more than this is not necessary.
+There are lower average ratings within the books, catalogs, and finance genres.
+The genres with higher ratings are productivity, music, and video.
+Apps with long descriptions (more than 1000 words) have more positive ratings, showing a positive correlation between these two factors.
+The recommendations would be to create an app within the genres of books, catalogs, and finance because there is an opportunity there. Include a description of more than 1000 words, and avoid genres such as productivity, music, or games. Lastly, if it's a paid app, ensure that the price is not higher than $2.00.
+
+Thanks to lore so what for the guide.

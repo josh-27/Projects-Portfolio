@@ -15,3 +15,6 @@ implematantion and design were created by me.
 
 The idea of the project is display the buying behavior of customers on bike depending on deifferent factors
 such as education level, gender etc.
+
+Car Sales
+On this Project you I use a public dataset of kaggle that was cleaned using python and pandas and see trends on sells.

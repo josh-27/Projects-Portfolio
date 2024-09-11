@@ -1,0 +1,22 @@
+Dashboard of reports on a support department on power BI, the images shown dummy data since i'm not on liberty to share the data.
+
+Analyze Interaction Volume:
+
+Understand the volume of interactions handled over time.
+
+Monitor Contact Channels:
+Analyze which contact channels are most frequently used by customers.
+
+Impact
+Informed Decision-Making:
+Make informed decisions based on  interaction data.
+
+Improved Customer Satisfaction:
+Enhance customer satisfaction by increasing response times.
+
+Operational Efficiency:
+Increase operational efficiency by identifying  bottlenecks in the support process.
+
+Possible room for improvement
+
+There was some ideas but it was limited due to data limitations, if it were possible i would add a map graph to be able to visualice the country from which there is the majority of contacts, also a more comprehensive summary of the contact would be good to create maybe a cloud of words and try to visualice common consults or phrases used by customers.

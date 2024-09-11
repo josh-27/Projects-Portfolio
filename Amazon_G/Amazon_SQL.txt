@@ -1,0 +1,43 @@
+The dataset used on this scenario is from Kaggle.
+https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data
+
+Scenario: Imagine that your client is a new seller on amazon trying to figure out which products category should focus, as a data analyst we're tasked to figure out some key insights that can help the seller to decide which category may have better potiential and also help it to have a greater scope of the market. The syntax of the queries used are also attached and the answer are on the same order as the queries. 
+
+
+1. Question: Which product category has the highest total monthly sales, and how does its average price compare to the other categories?
+
+Answer: The category "Health & Household" has the highest total sales, with a total of 9220.52 units sold. Its average price is $15.10, which is lower compared to other categories like "Kitchen & Dining" ($26.42) and "Sports & Outdoors" ($29.04), indicating that it has high sales volume despite a relatively lower price point.
+
+2. Question is there a relationship between sales and discounts?
+
+Answer: There isn't seem to be a relationship or correlation with this two variables, although the lowest discount is around seven dollars suggesting average values, the results does not show that the discounts show sales but the list shows that products with high averages prices tend to have higher discounts
+
+
+3. Question: Which product category has the lowest total monthly sales, and how does its average price compare to the other categories?
+
+Answer: Several categories have zero total sales, including "Tablet Replacement Parts," "Smart Home: Smart Locks and Entry," and "Computer External Components." Among the categories the smart home categories may represent potential markets.
+
+4. Question: Which product category has the highest average discount, and how does it compare to the other categories in terms of discount amounts?
+
+Answer: The categories related to smart home tend to have high discount, this suggest that for in instances like smart lock the low sales may not be due to the lack of high discount strategies and rather the lack product that generate sales or incorrect pricing.
+
+
+5. Question: Which product category has the highest rating, and how does its sales volume compare to the categories with lower ratings?
+
+Answer: The category "Health & Household" has the highest sales volume at 9220.52 units and a high rating of 4.57. In comparison, "Industrial & Scientific" has the highest rating at 4.55 and slightly lower sales at 1600.12 units. While high ratings are generally associated with better sales, some categories like "Oral Care Products" have lower ratings (4.36) and lower sales (888.43 units), indicating a potential correlation between product ratings and sales performance. Lastly it does not appear to be an obvious relation between the ratings and the reviews or if the product is a best seller or not; although on the last its important to point out that the best seller part is base on an average of all the products that belong to that category leaving the possibility of being affected by outliers.
+
+Key Insights Summary:
+Sales and Price Comparison: Categories like "Health & Household" stand out for high sales but lower average prices, which suggests high demand for lower-priced, essential products.
+
+Sales and Discounts Relationship: While discounts do not appear to have a strong correlation with sales, categories with higher-priced products, such as smart home devices, tend to offer larger discounts. This could imply an effort to make premium products more attractive through discount strategies, but sales performance may rely more on product relevance than on discounts alone.
+
+Low-Sales Categories: Categories with zero or low sales, such as "Tablet Replacement Parts" or "Smart Locks," might represent untapped potential. Investing in these areas could require strategies that go beyond discounts, such as market education, better product marketing, or pricing adjustments.
+
+High Discounts in Smart Home Products: The high discount rates in smart home-related categories suggest a competitive market. Sellers in this niche may need to innovate or focus on unique selling points other than discounts to gain market share.
+
+Ratings vs. Sales: High ratings don't always translate into high sales. For example, "Industrial & Scientific" products have top ratings but lower sales than "Health & Household." This could indicate that while customer satisfaction is important, factors like pricing, product type, or marketing efforts are critical in driving volume.
+
+Additional Recommendations:
+Explore Market Demand: Categories like "Smart Home" show potential despite lower sales, especially given the larger discounts. Investigating current market demand for these products could guide the seller on whether to focus on these emerging trends.
+
+Experiment with Pricing Strategies: For high-discount categories, evaluate the effectiveness of pricing strategies to ensure that discounts are driving value without eroding profit margins.
